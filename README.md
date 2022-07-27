@@ -1,3 +1,4 @@
+`Rutuja Musale`
 ## 𝐏𝐨𝐫𝐭𝐅𝐨𝐥𝐢𝐨 - 𝐑𝐮𝐭𝐮𝐣𝐚 𝐌𝐮𝐬𝐚𝐥𝐞
 
 
@@ -9,7 +10,7 @@
     <a><img align='right' height='300px' src="https://user-images.githubusercontent.com/69392848/180941294-fc5ae585-5019-4532-acf9-884045f69866.png"></a>
 </p>
 
-> My name is Rutuja Musale, currently studying for B.Tech in Information Technology at the International Institute of Information Technology. 
+> My name is `Rutuja Musale`, currently studying for B.Tech in Information Technology at the `International Institute of Information Technology, Pune`. 
 > I am and I have been looking for an Internship in Web Development & Database Engineering. 
 > I'm pretty much confident in my skills and am proficient in C, C++, Java, adv. Java, Spring and Spring Boots frameworks.  
 > Along with that HTML, Js, CSS, SQL are few other languages which I'm quite proficient in.
@@ -50,15 +51,57 @@ https://user-images.githubusercontent.com/69392848/181234331-6c2d2618-84e8-4268-
     - Demonstrations:
     
 ![image](https://user-images.githubusercontent.com/69392848/181257044-ac1b53d2-1518-4615-9fd1-9b9a42d87597.png)
+---
 ![image](https://user-images.githubusercontent.com/69392848/181257079-ab9bf455-5cb5-468f-8f7d-d95bf3519cf3.png)
+---
 ![image](https://user-images.githubusercontent.com/69392848/181257111-bfd53907-d1ee-4652-81dc-309e3e1aeae4.png)
-![image](https://user-images.githubusercontent.com/69392848/181257144-9289f200-c750-4291-bfd9-8b63fd600a0a.png)
+---
+![image](https://user-images.githubusercontent.com/69392848/181258085-dc66c651-f514-402d-a27a-cd892b90214f.png)
+---
 ![image](https://user-images.githubusercontent.com/69392848/181257161-73a43926-ccc6-4622-a071-2dd5f6b93db9.png)
 
+---
 
+## ⁍ 𝐋𝐚𝐧𝐠𝐮𝐚𝐠𝐞𝐬 𝐚𝐧𝐝 𝐒𝐤𝐢𝐥𝐥𝐬
 
+<br>
+<br>
+<p align='center'>
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264451-67b1a30a-5060-42bf-a28e-35605ac2f993.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264466-cab9c792-a607-4b15-9a2d-60a59b67a46a.png"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181265733-220029d0-f734-4e92-a669-344b990689ca.jpg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264431-94951b48-697a-4b5e-9a76-563f5dd8ff8d.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264476-32f76cba-d721-45e4-800a-32f0791db7c0.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264441-dbd3cc60-7a51-4190-bd36-9fcea54810d4.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264444-6e3d3587-7fc5-41c2-abe0-442aeadd6bec.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264454-31fab193-cecb-4aa8-88bc-6664c2a55dee.svg"></a>&nbsp;&nbsp;
+    <a><img height="40" src="https://user-images.githubusercontent.com/69392848/181264470-b39d5081-8bb3-4bfc-bdde-d4273084eb6a.svg"></a>&nbsp;&nbsp;
+</p>
 
+<div align="center">
+‣ 𝑱𝒂𝒗𝒂 
+‣ 𝑱𝒂𝒗𝒂 𝑨𝒅𝒗𝒂𝒏𝒄𝒆𝒅 
+‣ 𝑺𝒑𝒓𝒊𝒏𝒈  
+‣ 𝑺𝒑𝒓𝒊𝒏𝒈 𝑩𝒐𝒐𝒕 
+‣ 𝑪++ 
+‣ 𝑪 
+‣ 𝑯𝑻𝑴𝑳 
+‣ 𝑪𝑺𝑺  
+‣ 𝑱𝑺 
+‣ 𝑺𝑸𝑳 
+<br>
+</div>
+<br>
+<br>
 
-- Projects
-- Experience
-- Social Links
+---
+
+## ⁍ 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+
+## ⁍ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
+
+```
+: Mail Me  : rutujamusale846@gmail.com
+: LinkedIn : https://www.linkedin.com/in/rutujamusale/
+: Github   : https://github.com/rutujamusale  
+```
