@@ -19,6 +19,44 @@
 
 ## ⁍ 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
 
+### 𝐅𝐫𝐨𝐧𝐭 𝐄𝐧𝐝 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐏𝐫𝐨𝐣𝐞𝐜𝐭𝐬
+
+- Organic Food Website: 
+    - Project Link: `https://github.com/rutujamusale/organic-food-website`
+    - Video Demonstration:
+
+https://user-images.githubusercontent.com/69392848/181227655-97b4f9e6-f0c4-4c57-ae9f-5a2dd9f17e26.mp4
+
+---
+
+- Digital Agency Website:
+    - Project Link: `https://github.com/rutujamusale/digital-agency-website`
+    - Video Demonstration:
+   
+https://user-images.githubusercontent.com/69392848/181238265-6e05c6a9-03c2-4144-b16f-6c709e078771.mp4
+
+---
+
+- Logic Classes Marketing Website:
+    - Project Link: `https://github.com/rutujamusale/logic-classes-marketing-website`
+    - Video Demonstration:
+    
+https://user-images.githubusercontent.com/69392848/181234331-6c2d2618-84e8-4268-b8a3-557a681e4be0.mp4
+
+---
+
+- Pricing Panel Web Designs:
+    - Project Link: `https://github.com/rutujamusale/pricing-plans-design`
+    - Demonstrations:
+    
+![image](https://user-images.githubusercontent.com/69392848/181257044-ac1b53d2-1518-4615-9fd1-9b9a42d87597.png)
+![image](https://user-images.githubusercontent.com/69392848/181257079-ab9bf455-5cb5-468f-8f7d-d95bf3519cf3.png)
+![image](https://user-images.githubusercontent.com/69392848/181257111-bfd53907-d1ee-4652-81dc-309e3e1aeae4.png)
+![image](https://user-images.githubusercontent.com/69392848/181257144-9289f200-c750-4291-bfd9-8b63fd600a0a.png)
+![image](https://user-images.githubusercontent.com/69392848/181257161-73a43926-ccc6-4622-a071-2dd5f6b93db9.png)
+
+
+
 
 
 - Projects
