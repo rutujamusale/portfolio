@@ -101,7 +101,7 @@ https://user-images.githubusercontent.com/69392848/181234331-6c2d2618-84e8-4268-
 ## ⁍ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
 ```
-: Mail Me  : rutujamusale846@gmail.com
+: Mail Me  : rutujamusale662@gmail.com
 : LinkedIn : https://www.linkedin.com/in/rutujamusale/
 : Github   : https://github.com/rutujamusale  
 ```
