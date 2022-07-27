@@ -44,10 +44,8 @@ https://user-images.githubusercontent.com/69392848/181238265-6e05c6a9-03c2-4144-
 
 
     - Video Demonstration:
-   
-
-
-https://user-images.githubusercontent.com/69392848/181283546-2ddfed6b-b86c-4fc4-a570-a5922cd402b6.mp4
+    
+https://user-images.githubusercontent.com/69392848/181281010-0fb33ec4-5da9-4970-8adb-5bc58b35562c.mp4
 
 
 ---
@@ -103,6 +101,32 @@ https://user-images.githubusercontent.com/69392848/181283546-2ddfed6b-b86c-4fc4-
 ---
 
 ## ⁍ 𝐄𝐱𝐩𝐞𝐫𝐢𝐞𝐧𝐜𝐞
+
+<p>
+    <a><img align='right' height='150px' src="https://user-images.githubusercontent.com/69392848/181297201-58dbeca9-4ea7-448f-868a-1c4700803b2c.png"></a>
+</p>
+
+```
+
+
+- Web Development Intern @ The Sparks Foundation
+- Duration: (Dec 2021 - Jan 2022)
+
+
+```
+
+<p>
+    <a><img align='left' height='150px' src="https://user-images.githubusercontent.com/69392848/181297324-86920872-c072-4b8f-b721-620c82efb3bf.png"></a>
+</p>
+
+```
+
+
+- Web Development Intern @ LetsGrowMore
+- Duration: (August 2021 - September 2021)
+
+
+```
 
 ## ⁍ 𝐂𝐨𝐧𝐭𝐚𝐜𝐭
 
