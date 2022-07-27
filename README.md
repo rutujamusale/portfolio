@@ -40,9 +40,13 @@ https://user-images.githubusercontent.com/69392848/181238265-6e05c6a9-03c2-4144-
 
 - Logic Classes Marketing Website:
     - Project Link: `https://github.com/rutujamusale/logic-classes-marketing-website`
+
+
+
     - Video Demonstration:
     
-https://user-images.githubusercontent.com/69392848/181234331-6c2d2618-84e8-4268-b8a3-557a681e4be0.mp4
+https://user-images.githubusercontent.com/69392848/181281010-0fb33ec4-5da9-4970-8adb-5bc58b35562c.mp4
+
 
 ---
 
